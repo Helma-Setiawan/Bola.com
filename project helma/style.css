@@ -1,0 +1,158 @@
+body
+{
+	background-color: aquamarine;
+}
+
+a.nav-link:hover
+{
+background-color: rgb(228, 96, 20);
+}
+
+.jumbotron-fluid
+{
+	background-color: rgb(228, 96, 20);
+}
+
+.lead
+{
+color: white;
+}
+h1
+{
+	color: white;
+}
+
+.text-home {
+	
+	margin: auto;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.text-home-about {
+	margin: auto;
+	text-align: center;
+	margin-top: 80px;
+}
+
+.content 
+{
+	width: 90%;
+	margin: auto;
+	padding-left: 100px;
+	float: left;	
+}
+
+.cont-item {
+	width: 40%;
+	float: left;
+	margin: 40px;
+	
+}
+
+.cont-img {
+	height: auto;
+	width: 100%;
+}
+
+.cont-img img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+
+.update-time {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.cont-text {
+	padding: 15px;
+	background-color: rgb(228, 96, 20);
+	color: white;
+}
+
+.cont-about
+{
+padding-left: 100px;
+padding-right: 100px;
+text-align: justify;
+}
+
+.about-item
+{
+	margin-top: 5%;
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.sosmed
+{
+	text-align: center;
+    margin: auto;
+    width: 15%;
+	margin-top: 5%;
+}
+
+.sosmed table
+{
+	width: 15%;
+	margin: auto;  
+}
+
+.sosmed td
+{
+	padding: 10px;
+}
+
+.sosmed a:hover
+{
+	color: orange;
+}
+
+
+.footer_1
+{
+	margin-top: 70%;
+	padding-top: 35px;
+	background-color: #212529;
+	color: white;
+	text-align: center;
+}
+
+.isi
+{
+	margin: auto;
+}
+.footer_2
+{
+	margin-top: 70%;
+	padding-top: 35px;
+	background-color:   #212529;
+	color: white;
+	padding-top: 2%;
+	text-align: center;
+}
+
+.footer_3
+{
+	margin-top: 70%;
+	padding-top: 35px;
+	background-color: #212529;
+	color: white;
+	text-align: center;
+}
+
+.footer_4
+{
+	margin-top: 10%;
+	padding-top: 35px;
+	background-color:#212529;
+	color: white;
+	text-align: center;
+	
+}
+
+
+
